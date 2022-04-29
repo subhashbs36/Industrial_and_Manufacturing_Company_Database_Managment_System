@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>blue_icons.qrc</file>
+    <file>loginbg.jpg</file>
+  </qresource>
+</RCC>

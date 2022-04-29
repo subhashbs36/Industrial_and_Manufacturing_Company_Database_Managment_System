@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>globa.jpeg</file>
+    <file>Pharmacy.jfif</file>
+    <file>Pharmacy_logo.png</file>
+    <file>loginbg.jpg</file>
+  </qresource>
+</RCC>
