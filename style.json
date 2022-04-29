@@ -1,0 +1,36 @@
+{
+	"QCustomSlideMenu": [{
+		"name": "slide_menu",
+		"defaultSize": [{
+			"width": 0,
+			"height": "auto"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "auto"
+		}],
+		"expandedSize": [{
+			"width": 200,
+			"height": "auto"
+		}],
+		"toggleButton": [{
+			"buttonName": "menu_btn",
+			"icons": [{
+				"whenMenuIsCollapsed": ":/newPrefix/align-left.svg",
+				"whenMenuIsExpanded": ":/newPrefix/chevrons-left.svg"
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 100,
+			"animationEasingCurve": "Linear",
+			"whenCollapsing": [{
+				"animationDuration": 100,
+				"animationEasingCurve": "Linear"
+			}],
+			"whenExpanding": [{
+				"animationDuration": 100,
+				"animationEasingCurve": "Linear"
+			}]
+		}]
+	}]
+}
