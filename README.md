@@ -1,5 +1,7 @@
 # Industrial_and_Manufacturing_Company_Database_Managment_System
  This is an DBMS Project regarding Industrial Database project with simplified interface for Easier Handling
+ 
+Here the software is desiged on the Example for Soap & Detergent manufacturing company. 
 
 This project is built using PYQT and sqlite3 database. 
 
